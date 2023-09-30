@@ -1,11 +1,10 @@
 package inheritance;
 
-// Define superclass
+// Define the Animal class
 class Animal {
     private String name;
     private int age;
 
-    // Corrected the constructor declaration to "public"
     public Animal(String name, int age) {
         this.name = name;
         this.age = age;
@@ -20,18 +19,17 @@ class Animal {
     }
 }
 
-// Define subclass (separate class)
+// Create a subclass, Dog
 class Dog extends Animal {
     private String breed;
 
     public Dog(String name, int age, String breed) {
-        super(name, age); // Call superclass constructor
+        super(name, age); // Call the superclass constructor
         this.breed = breed;
     }
 
-    // Add additional method specific to Dog
     public void wagTail() {
-        System.out.println("The dog is wagging its tail");
+        System.out.println("Dog is wagging its tail"); // Add an additional method specific to the dog
     }
 
     @Override
@@ -40,14 +38,13 @@ class Dog extends Animal {
     }
 }
 
-public class createasubclass {
+public class CreateASubclass {
     public static void main(String[] args) {
-        // Create an Animal object
-        Animal genericAnimal = new Animal("Generic Animal", 5);
+        Animal genericAnimal = new Animal("Generic animal", 5); // Create an animal object
         genericAnimal.speak();
         genericAnimal.eat();
 
-        // Create a Dog object
+        // Create a dog object
         Dog myDog = new Dog("Buddy", 3, "Golden Retriever");
         myDog.speak();
         myDog.eat();
