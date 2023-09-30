@@ -1,61 +1,56 @@
 package inheritance;
 
-//define subclass
-
+// Define superclass
 class Animal {
     private String name;
     private int age;
 
-    publlic Animal(String name, int age) {
+    // Corrected the constructor declaration to "public"
+    public Animal(String name, int age) {
         this.name = name;
         this.age = age;
-
     }
 
     public void speak() {
-        System.out.println("an animal make sound");
+        System.out.println("An animal makes a sound");
     }
 
     public void eat() {
-        System.out.println("animal is eating");
+        System.out.println("Animal is eating");
+    }
+}
+
+// Define subclass (separate class)
+class Dog extends Animal {
+    private String breed;
+
+    public Dog(String name, int age, String breed) {
+        super(name, age); // Call superclass constructor
+        this.breed = breed;
     }
 
-    // create a subclasss
-
-    class Dog extends Animal {
-        private String breed;
-
-    }
-
-    public Dog(String name,int age,String breed){
-        super(name,age); // call superclasss constructor
-        this.breed=breed;
-    }
-
+    // Add additional method specific to Dog
     public void wagTail() {
-        System.out.println("dog is wagging tail");// add aditional method specific dog
-
+        System.out.println("The dog is wagging its tail");
     }
 
     @Override
     public void speak() {
-        System.out.println("the dog barks");
+        System.out.println("The dog barks");
     }
 }
 
 public class createasubclass {
     public static void main(String[] args) {
-
-        Animal genericAnimal = new Animal("Generic animal", 5);// craeate animal object
+        // Create an Animal object
+        Animal genericAnimal = new Animal("Generic Animal", 5);
         genericAnimal.speak();
         genericAnimal.eat();
 
-        // create a dog object
-
-        Dog mydog = new Dog("buddy", 3, "golden retrive");
-        mydog.speak();
-        mydog.eat();
-        mydog.wagTail();
-
+        // Create a Dog object
+        Dog myDog = new Dog("Buddy", 3, "Golden Retriever");
+        myDog.speak();
+        myDog.eat();
+        myDog.wagTail();
     }
 }
