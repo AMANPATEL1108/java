@@ -7,25 +7,26 @@ import java.awt.event.ActionListener;
 public class Guidevelopment {
     public static void main(String[] args) {
         // Create a JFrame (window)
-        JFrame frame = new JFrame("Swing Example");
+        JFrame frame = new JFrame("Gui Develoment example");
 
         // Create a JButton (button)
-        JButton button = new JButton("Click Me!");
+        JButton button1 = new JButton("Click Me!");
 
         // Add an ActionListener to the button
-        button.addActionListener(new ActionListener() {
+        button1.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
                 // Show a message dialog when the button is clicked
-                JOptionPane.showMessageDialog(frame, "Button Clicked!");
+                JOptionPane.showMessageDialog(frame, "Welcome to GUI");
             }
         });
 
         // Add the button to the content pane of the JFrame
-        frame.getContentPane().add(button);
+        frame.getContentPane().add(button1);
 
         // Set window properties
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setSize(300, 200);
+        frame.setSize(400, 300);
         frame.setVisible(true);
+        frame.setLocation(600, 200);
     }
 }
