@@ -3,6 +3,48 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Cars",
+      "request": "launch",
+      "mainClass": "practice.Cars",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Day",
+      "request": "launch",
+      "mainClass": "practice.Day",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Random",
+      "request": "launch",
+      "mainClass": "practice.Random",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Abs",
+      "request": "launch",
+      "mainClass": "practice.Abs",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Sqrt",
+      "request": "launch",
+      "mainClass": "practice.Sqrt",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Maxmin",
+      "request": "launch",
+      "mainClass": "practice.Maxmin",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
       "name": "Convert",
       "request": "launch",
       "mainClass": "practice.Convert",
