@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Convert",
+      "request": "launch",
+      "mainClass": "practice.Convert",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Prac1",
+      "request": "launch",
+      "mainClass": "practice.Prac1",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "First",
+      "request": "launch",
+      "mainClass": "practice.First",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
       "name": "Referencedatatypes",
       "request": "launch",
       "mainClass": "Referencedatatypes",
