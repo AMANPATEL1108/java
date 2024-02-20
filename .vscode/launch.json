@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Linklist",
+      "request": "launch",
+      "mainClass": "Linklist",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Car",
+      "request": "launch",
+      "mainClass": "Car",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
       "name": "Objectandclass",
       "request": "launch",
       "mainClass": "Objectandclass",
