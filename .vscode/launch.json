@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Wrapingclass",
+      "request": "launch",
+      "mainClass": "Wrapingclass",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Maphash",
+      "request": "launch",
+      "mainClass": "Maphash",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
       "name": "Linklist",
       "request": "launch",
       "mainClass": "Linklist",
