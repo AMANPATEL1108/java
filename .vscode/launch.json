@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Deletefilefolder",
+      "request": "launch",
+      "mainClass": "Deletefilefolder",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Readfile",
+      "request": "launch",
+      "mainClass": "Readfile",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Createfile",
+      "request": "launch",
+      "mainClass": "Createfile",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
       "name": "Wrapingclass",
       "request": "launch",
       "mainClass": "Wrapingclass",
