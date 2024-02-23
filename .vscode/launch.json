@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Reversearray",
+      "request": "launch",
+      "mainClass": "Reversearray",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
       "name": "Deletefilefolder",
       "request": "launch",
       "mainClass": "Deletefilefolder",
