@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Minimumfind",
+      "request": "launch",
+      "mainClass": "Questions.Minimumfind",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
       "name": "Maximumfind",
       "request": "launch",
       "mainClass": "Questions.Maximumfind",
