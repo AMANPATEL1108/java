@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Palidrone",
+      "request": "launch",
+      "mainClass": "Questions.Palidrone",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
       "name": "Minimumfind",
       "request": "launch",
       "mainClass": "Questions.Minimumfind",
