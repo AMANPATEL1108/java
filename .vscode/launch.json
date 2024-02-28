@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Secondmaxminfind",
+      "request": "launch",
+      "mainClass": "Questions.Secondmaxminfind",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
       "name": "average",
       "request": "launch",
       "mainClass": "Questions.average",
