@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Increasedecreaseorder",
+      "request": "launch",
+      "mainClass": "Questions.Increasedecreaseorder",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
       "name": "Countfrquencyeachelement",
       "request": "launch",
       "mainClass": "Questions.Countfrquencyeachelement",
