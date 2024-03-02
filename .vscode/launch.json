@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Arraysum",
+      "request": "launch",
+      "mainClass": "Arraysum",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
       "name": "Followingoperation",
       "request": "launch",
       "mainClass": "Followingoperation",
