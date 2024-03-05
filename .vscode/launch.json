@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Findthemidianofthearray",
+      "request": "launch",
+      "mainClass": "Findthemidianofthearray",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
       "name": "Aerageofarrayallelements",
       "request": "launch",
       "mainClass": "Aerageofarrayallelements",
