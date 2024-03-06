@@ -20,4 +20,9 @@ public class Arrays {
             System.out.println(no[1] + " ");
         }
     }
+
+    public static String toString(int[] result) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'toString'");
+    }
 }
