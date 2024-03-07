@@ -3,6 +3,104 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Calculator",
+      "request": "launch",
+      "mainClass": "Calculator",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "SwitchStatment",
+      "request": "launch",
+      "mainClass": "SwitchStatment",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Studentpassorfalse",
+      "request": "launch",
+      "mainClass": "Studentpassorfalse",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "TernaryOperator",
+      "request": "launch",
+      "mainClass": "TernaryOperator",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "largestofthreeno",
+      "request": "launch",
+      "mainClass": "largestofthreeno",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Incometaxcalculator",
+      "request": "launch",
+      "mainClass": "Incometaxcalculator",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Elseif",
+      "request": "launch",
+      "mainClass": "Elseif",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "OddEven",
+      "request": "launch",
+      "mainClass": "OddEven",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "LargestNo",
+      "request": "launch",
+      "mainClass": "LargestNo",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Ifelse",
+      "request": "launch",
+      "mainClass": "Ifelse",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "AssigenmentOperators",
+      "request": "launch",
+      "mainClass": "AssigenmentOperators",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "LogicalOperators",
+      "request": "launch",
+      "mainClass": "LogicalOperators",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "RelationalOperators",
+      "request": "launch",
+      "mainClass": "RelationalOperators",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "ArithmeticOperaters",
+      "request": "launch",
+      "mainClass": "ArithmeticOperaters",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
       "name": "TypePromotion",
       "request": "launch",
       "mainClass": "TypePromotion",
