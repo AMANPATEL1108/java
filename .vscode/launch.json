@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Unsortedduplicateremove$Solution",
+      "request": "launch",
+      "mainClass": "Unsortedduplicateremove$Solution",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
       "name": "Sortedarrayduplicateremove",
       "request": "launch",
       "mainClass": "Sortedarrayduplicateremove",
