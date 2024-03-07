@@ -3,6 +3,90 @@
   "configurations": [
     {
       "type": "java",
+      "name": "TypePromotion",
+      "request": "launch",
+      "mainClass": "TypePromotion",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "TypeCasting",
+      "request": "launch",
+      "mainClass": "TypeCasting",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Typeconversionandcasting",
+      "request": "launch",
+      "mainClass": "Typeconversionandcasting",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Areaofcircle",
+      "request": "launch",
+      "mainClass": "Areaofcircle",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Productab",
+      "request": "launch",
+      "mainClass": "Productab",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Sumabtakeinput",
+      "request": "launch",
+      "mainClass": "Sumabtakeinput",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Inputinjava",
+      "request": "launch",
+      "mainClass": "Inputinjava",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Sumab",
+      "request": "launch",
+      "mainClass": "Sumab",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "DataTypes",
+      "request": "launch",
+      "mainClass": "DataTypes",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Variable",
+      "request": "launch",
+      "mainClass": "Variable",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "PrintPattern",
+      "request": "launch",
+      "mainClass": "PrintPattern",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "JavaBasic",
+      "request": "launch",
+      "mainClass": "JavaBasic",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
       "name": "Unsortedduplicateremove$Solution",
       "request": "launch",
       "mainClass": "Unsortedduplicateremove$Solution",
