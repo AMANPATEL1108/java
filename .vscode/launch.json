@@ -3,6 +3,104 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Blockscope",
+      "request": "launch",
+      "mainClass": "Blockscope",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Decimaltobinary",
+      "request": "launch",
+      "mainClass": "Decimaltobinary",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Binarytodecimal",
+      "request": "launch",
+      "mainClass": "Binarytodecimal",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Nnorangetoprime",
+      "request": "launch",
+      "mainClass": "Nnorangetoprime",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Numberprimeornot",
+      "request": "launch",
+      "mainClass": "Numberprimeornot",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "PrimeorNot",
+      "request": "launch",
+      "mainClass": "PrimeorNot",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "FuncionOverloadingDatatypes",
+      "request": "launch",
+      "mainClass": "FuncionOverloadingDatatypes",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Overloadingusingparameters",
+      "request": "launch",
+      "mainClass": "Overloadingusingparameters",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Binomialcofficient",
+      "request": "launch",
+      "mainClass": "Binomialcofficient",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Findfactorial",
+      "request": "launch",
+      "mainClass": "Findfactorial",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Productaandb",
+      "request": "launch",
+      "mainClass": "Productaandb",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "CallbyValue",
+      "request": "launch",
+      "mainClass": "CallbyValue",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "SyntaxwithParameters",
+      "request": "launch",
+      "mainClass": "SyntaxwithParameters",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Syntax",
+      "request": "launch",
+      "mainClass": "Syntax",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
       "name": "PrintCharacter",
       "request": "launch",
       "mainClass": "PrintCharacter",
