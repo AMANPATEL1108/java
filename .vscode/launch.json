@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PrintCharacter",
+      "request": "launch",
+      "mainClass": "PrintCharacter",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Halfpyramid",
+      "request": "launch",
+      "mainClass": "Halfpyramid",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "InvertedStarpattern",
+      "request": "launch",
+      "mainClass": "InvertedStarpattern",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Printstarpattern",
+      "request": "launch",
+      "mainClass": "Printstarpattern",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
       "name": "Primeornot",
       "request": "launch",
       "mainClass": "Primeornot",
