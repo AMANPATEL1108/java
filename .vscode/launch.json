@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Addingelementinarray",
+      "request": "launch",
+      "mainClass": "Addingelementinarray",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
       "name": "Calculator",
       "request": "launch",
       "mainClass": "Calculator",
