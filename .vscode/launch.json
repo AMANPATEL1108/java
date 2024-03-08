@@ -3,6 +3,97 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Primeornot",
+      "request": "launch",
+      "mainClass": "Primeornot",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Exceptmultiplesoften",
+      "request": "launch",
+      "mainClass": "Exceptmultiplesoften",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "ContinueStatment",
+      "request": "launch",
+      "mainClass": "ContinueStatment",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Breakstatement",
+      "request": "launch",
+      "mainClass": "Breakstatement",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Dowhileloop",
+      "request": "launch",
+      "mainClass": "Dowhileloop",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Reversegivennumber",
+      "request": "launch",
+      "mainClass": "Reversegivennumber",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Printreversnumber",
+      "request": "launch",
+      "mainClass": "Printreversnumber",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "PrintSquarepattern",
+      "request": "launch",
+      "mainClass": "PrintSquarepattern",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "ForLoops",
+      "request": "launch",
+      "mainClass": "ForLoops",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Sumofnnumer",
+      "request": "launch",
+      "mainClass": "Sumofnnumer",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Onetonn",
+      "request": "launch",
+      "mainClass": "Onetonn",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Printonetoten",
+      "request": "launch",
+      "mainClass": "Printonetoten",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "WhileLoop",
+      "request": "launch",
+      "mainClass": "WhileLoop",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
       "name": "Addingelementinarray",
       "request": "launch",
       "mainClass": "Addingelementinarray",
