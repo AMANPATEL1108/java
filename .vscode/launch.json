@@ -3,6 +3,90 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Bonus",
+      "request": "launch",
+      "mainClass": "Bonus",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Diamondpattern",
+      "request": "launch",
+      "mainClass": "Diamondpattern",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Hollowrhombus",
+      "request": "launch",
+      "mainClass": "Hollowrhombus",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Solidrhombus",
+      "request": "launch",
+      "mainClass": "Solidrhombus",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Butterflypattern",
+      "request": "launch",
+      "mainClass": "Butterflypattern",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Trianglezeroone",
+      "request": "launch",
+      "mainClass": "Trianglezeroone",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Floydtriangle",
+      "request": "launch",
+      "mainClass": "Floydtriangle",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Invertedhalfpyramid",
+      "request": "launch",
+      "mainClass": "Invertedhalfpyramid",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Invertedpyramid",
+      "request": "launch",
+      "mainClass": "Invertedpyramid",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Hollowractangle",
+      "request": "launch",
+      "mainClass": "Hollowractangle",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Hollowrectangle",
+      "request": "launch",
+      "mainClass": "Hollowrectangle",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "HollowRectangle",
+      "request": "launch",
+      "mainClass": "HollowRectangle",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
       "name": "Findrepeatingelementinarray",
       "request": "launch",
       "mainClass": "Findrepeatingelementinarray",
