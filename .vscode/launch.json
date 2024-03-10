@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Findnonrepeatingarrayall",
+      "request": "launch",
+      "mainClass": "Findnonrepeatingarrayall",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
       "name": "Bonus",
       "request": "launch",
       "mainClass": "Bonus",
