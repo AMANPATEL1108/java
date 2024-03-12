@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Maxximumproductsubarray",
+      "request": "launch",
+      "mainClass": "Maxximumproductsubarray",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
       "name": "Findallsymmetricpairsinthearrayofpairs",
       "request": "launch",
       "mainClass": "Findallsymmetricpairsinthearrayofpairs",
