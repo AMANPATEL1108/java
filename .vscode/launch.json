@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Sortinganarraybyfrequency",
+      "request": "launch",
+      "mainClass": "Sortinganarraybyfrequency",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
       "name": "Replaceeachelementarraybyitsrank",
       "request": "launch",
       "mainClass": "Replaceeachelementarraybyitsrank",
