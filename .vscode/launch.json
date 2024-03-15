@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Rotationofelementofarrayleftandright",
+      "request": "launch",
+      "mainClass": "Rotationofelementofarrayleftandright",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
       "name": "Sortinganarraybyfrequency",
       "request": "launch",
       "mainClass": "Sortinganarraybyfrequency",
