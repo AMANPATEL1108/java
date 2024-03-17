@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Findingcircularrotationofarraybykposition",
+      "request": "launch",
+      "mainClass": "Findingcircularrotationofarraybykposition",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
       "name": "Findingequilibriumindexofarray",
       "request": "launch",
       "mainClass": "Findingequilibriumindexofarray",
