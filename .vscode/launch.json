@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Sortanarrayaccordingtoorderdefinebyanotherarray",
+      "request": "launch",
+      "mainClass": "Sortanarrayaccordingtoorderdefinebyanotherarray",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
       "name": "Findingcircularrotationofarraybykposition",
       "request": "launch",
       "mainClass": "Findingcircularrotationofarraybykposition",
