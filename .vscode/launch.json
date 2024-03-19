@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Searchanelementinarray",
+      "request": "launch",
+      "mainClass": "Searchanelementinarray",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
       "name": "Sortanarrayaccordingtoorderdefinebyanotherarray",
       "request": "launch",
       "mainClass": "Sortanarrayaccordingtoorderdefinebyanotherarray",
