@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CheckArrayissubsetofanotherarrayornot",
+      "request": "launch",
+      "mainClass": "CheckArrayissubsetofanotherarrayornot",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
       "name": "Searchanelementinarray",
       "request": "launch",
       "mainClass": "Searchanelementinarray",
