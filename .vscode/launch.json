@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Checkpalidromeornot",
+      "request": "launch",
+      "mainClass": "Checkpalidromeornot",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
       "name": "CheckArrayissubsetofanotherarrayornot",
       "request": "launch",
       "mainClass": "CheckArrayissubsetofanotherarrayornot",
