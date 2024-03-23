@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Checkprimeornot",
+      "request": "launch",
+      "mainClass": "Checkprimeornot",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
       "name": "Findallpalidronenumberinrange",
       "request": "launch",
       "mainClass": "Findallpalidronenumberinrange",
