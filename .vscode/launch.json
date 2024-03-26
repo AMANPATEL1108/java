@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Checkanumberisperfectornot",
+      "request": "launch",
+      "mainClass": "Checkanumberisperfectornot",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
       "name": "Checkarmstromornot",
       "request": "launch",
       "mainClass": "Checkarmstromornot",
