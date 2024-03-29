@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Sumoffirstnnaturalnumber",
+      "request": "launch",
+      "mainClass": "Sumoffirstnnaturalnumber",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
       "name": "Checkweathergivennumberispositiveornegative",
       "request": "launch",
       "mainClass": "Checkweathergivennumberispositiveornegative",
