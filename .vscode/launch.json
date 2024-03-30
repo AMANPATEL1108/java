@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Findsumofapseries",
+      "request": "launch",
+      "mainClass": "Findsumofapseries",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "solution",
+      "request": "launch",
+      "mainClass": "solution",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
       "name": "Sumoffirstnnaturalnumber",
       "request": "launch",
       "mainClass": "Sumoffirstnnaturalnumber",
