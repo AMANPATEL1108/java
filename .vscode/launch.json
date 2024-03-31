@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Findsumofgpseries",
+      "request": "launch",
+      "mainClass": "Findsumofgpseries",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
       "name": "Findsumofapseries",
       "request": "launch",
       "mainClass": "Findsumofapseries",
