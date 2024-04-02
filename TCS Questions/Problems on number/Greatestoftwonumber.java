@@ -1,9 +1,10 @@
 public class Greatestoftwonumber {
     public static void main(String[] args) {
-        int num1 = 45;
-        int num2 = 55;
+        double num1 = 1.123;
+        double num2 = 1.124;
+        double num3 = 1.125;
 
-        System.out.println("Greatest Number is :" + Math.max(num1, num2));
+        System.out.println("Greatest Number is :" + Math.max(num1, Math.max(num2, num3)));
 
     }
 }
