@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Leaapyearornot",
+      "request": "launch",
+      "mainClass": "Leaapyearornot",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
       "name": "Greatestoftwonumber",
       "request": "launch",
       "mainClass": "Greatestoftwonumber",
