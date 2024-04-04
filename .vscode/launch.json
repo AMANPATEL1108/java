@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Reversedigitofthenumber",
+      "request": "launch",
+      "mainClass": "Reversedigitofthenumber",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
       "name": "Leaapyearornot",
       "request": "launch",
       "mainClass": "Leaapyearornot",
