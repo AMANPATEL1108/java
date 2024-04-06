@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Fibonacciseriesuptonterm",
+      "request": "launch",
+      "mainClass": "Fibonacciseriesuptonterm",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
       "name": "Maximumandminimumdigitinnumber",
       "request": "launch",
       "mainClass": "Maximumandminimumdigitinnumber",
