@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Factorialofnnumber",
+      "request": "launch",
+      "mainClass": "Factorialofnnumber",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
       "name": "Fibonacciseriesuptonterm",
       "request": "launch",
       "mainClass": "Fibonacciseriesuptonterm",
