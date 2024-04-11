@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Chckifnumberisastrongornot",
+      "request": "launch",
+      "mainClass": "Chckifnumberisastrongornot",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
       "name": "Poweofthenumber",
       "request": "launch",
       "mainClass": "Poweofthenumber",
