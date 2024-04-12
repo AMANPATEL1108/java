@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Checkifanumberisautomorphicnumber",
+      "request": "launch",
+      "mainClass": "Checkifanumberisautomorphicnumber",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "Checkifnumberisastrongornot",
+      "request": "launch",
+      "mainClass": "Checkifnumberisastrongornot",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
       "name": "Chckifnumberisastrongornot",
       "request": "launch",
       "mainClass": "Chckifnumberisastrongornot",
