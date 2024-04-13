@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Gcdoftwonumber",
+      "request": "launch",
+      "mainClass": "Gcdoftwonumber",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
       "name": "Checkifanumberisautomorphicnumber",
       "request": "launch",
       "mainClass": "Checkifanumberisautomorphicnumber",
