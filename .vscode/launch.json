@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Checknumberisabundantnumberornot",
+      "request": "launch",
+      "mainClass": "Checknumberisabundantnumberornot",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
       "name": "Checkifanumberisharshadnumber",
       "request": "launch",
       "mainClass": "Checkifanumberisharshadnumber",
