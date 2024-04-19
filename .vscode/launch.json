@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Permutationsinwhichnpeoplecanoccupyrseatsinclassroom",
+      "request": "launch",
+      "mainClass": "Permutationsinwhichnpeoplecanoccupyrseatsinclassroom",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
       "name": "Sumofnumberisthegivenrange",
       "request": "launch",
       "mainClass": "Sumofnumberisthegivenrange",
