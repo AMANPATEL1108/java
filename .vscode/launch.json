@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Expressgivennumberassumoftwoprimenumber",
+      "request": "launch",
+      "mainClass": "Expressgivennumberassumoftwoprimenumber",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
       "name": "Replaceall0swith1singiveninteger",
       "request": "launch",
       "mainClass": "Replaceall0swith1singiveninteger",
