@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Programtofindrootsofaquadraticequation",
+      "request": "launch",
+      "mainClass": "Programtofindrootsofaquadraticequation",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
       "name": "Calculateareaofcircle",
       "request": "launch",
       "mainClass": "Calculateareaofcircle",
