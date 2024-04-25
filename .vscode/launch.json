@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Convertbinarytodecimal",
+      "request": "launch",
+      "mainClass": "Convertbinarytodecimal",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
+      "name": "converntbinarytodecimal",
+      "request": "launch",
+      "mainClass": "converntbinarytodecimal",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
       "name": "Programtofindrootsofaquadraticequation",
       "request": "launch",
       "mainClass": "Programtofindrootsofaquadraticequation",
