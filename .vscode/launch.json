@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Convertbinarytooctal",
+      "request": "launch",
+      "mainClass": "Convertbinarytooctal",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
       "name": "Convertbinarytodecimal",
       "request": "launch",
       "mainClass": "Convertbinarytodecimal",
