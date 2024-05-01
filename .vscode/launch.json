@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Convertdigitnumbertosords",
+      "request": "launch",
+      "mainClass": "Convertdigitnumbertosords",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
       "name": "Convertoctaltodecimal",
       "request": "launch",
       "mainClass": "Convertoctaltodecimal",
