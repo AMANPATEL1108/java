@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Bubblesortingalgoritm",
+      "request": "launch",
+      "mainClass": "Bubblesortingalgoritm",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
       "name": "Convertdigitnumbertosords",
       "request": "launch",
       "mainClass": "Convertdigitnumbertosords",
