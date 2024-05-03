@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Selectionsortalgorithm",
+      "request": "launch",
+      "mainClass": "Selectionsortalgorithm",
+      "projectName": "java test_9baf9089"
+    },
+    {
+      "type": "java",
       "name": "Bubblesortingalgoritm",
       "request": "launch",
       "mainClass": "Bubblesortingalgoritm",
