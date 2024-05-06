@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Mergesortalgorithm",
+      "request": "launch",
+      "mainClass": "Mergesortalgorithm",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Quickshortingalgorithm",
       "request": "launch",
       "mainClass": "Quickshortingalgorithm",
