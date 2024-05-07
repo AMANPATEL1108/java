@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Checkgivenstringispalidromeornot",
+      "request": "launch",
+      "mainClass": "Checkgivenstringispalidromeornot",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Mergesortalgorithm",
       "request": "launch",
       "mainClass": "Mergesortalgorithm",
