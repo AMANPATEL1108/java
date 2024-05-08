@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Countnumberofvowelsconsonantsspacesinstring",
+      "request": "launch",
+      "mainClass": "Countnumberofvowelsconsonantsspacesinstring",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Checkgivenstringispalidromeornot",
       "request": "launch",
       "mainClass": "Checkgivenstringispalidromeornot",
