@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Removecharactersfromastringexceptalphabets",
+      "request": "launch",
+      "mainClass": "Removecharactersfromastringexceptalphabets",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Removesspacesfromastring",
       "request": "launch",
       "mainClass": "Removesspacesfromastring",
