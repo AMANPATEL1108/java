@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Reverseastring",
+      "request": "launch",
+      "mainClass": "Reverseastring",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Removecharactersfromastringexceptalphabets",
       "request": "launch",
       "mainClass": "Removecharactersfromastringexceptalphabets",
