@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Removebracketsfromanalgebraicexpression",
+      "request": "launch",
+      "mainClass": "Removebracketsfromanalgebraicexpression",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Reverseastring",
       "request": "launch",
       "mainClass": "Reverseastring",
