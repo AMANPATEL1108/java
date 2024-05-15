@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Sumofthenumberinastring",
+      "request": "launch",
+      "mainClass": "Sumofthenumberinastring",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Removebracketsfromanalgebraicexpression",
       "request": "launch",
       "mainClass": "Removebracketsfromanalgebraicexpression",
