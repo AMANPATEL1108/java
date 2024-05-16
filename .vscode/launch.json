@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Capitalizefirstandlastcharacterofeachword",
+      "request": "launch",
+      "mainClass": "Capitalizefirstandlastcharacterofeachword",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Sumofthenumberinastring",
       "request": "launch",
       "mainClass": "Sumofthenumberinastring",
