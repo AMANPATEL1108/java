@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Calculatethefrequencyofcharacterinastring",
+      "request": "launch",
+      "mainClass": "Calculatethefrequencyofcharacterinastring",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Capitalizefirstandlastcharacterofeachword",
       "request": "launch",
       "mainClass": "Capitalizefirstandlastcharacterofeachword",
