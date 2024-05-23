@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Removeallduplicatesfromtheinputstring",
+      "request": "launch",
+      "mainClass": "Removeallduplicatesfromtheinputstring",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Returnmaximumoccuringcharacterintheinputstringstring",
       "request": "launch",
       "mainClass": "Returnmaximumoccuringcharacterintheinputstringstring",
