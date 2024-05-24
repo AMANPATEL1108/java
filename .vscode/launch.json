@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Printalltheduplicatesintheinputstring",
+      "request": "launch",
+      "mainClass": "Printalltheduplicatesintheinputstring",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Removeallduplicatesfromtheinputstring",
       "request": "launch",
       "mainClass": "Removeallduplicatesfromtheinputstring",
