@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Removechractersfromfirststringpresentinthesecondstring2",
+      "request": "launch",
+      "mainClass": "Removechractersfromfirststringpresentinthesecondstring2",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Removechractersfromfirststringpresentinthesecondstring",
+      "request": "launch",
+      "mainClass": "Removechractersfromfirststringpresentinthesecondstring",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Printalltheduplicatesintheinputstring",
       "request": "launch",
       "mainClass": "Printalltheduplicatesintheinputstring",
