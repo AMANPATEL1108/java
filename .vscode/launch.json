@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Writeaprogramtosortchracterinastring",
+      "request": "launch",
+      "mainClass": "Writeaprogramtosortchracterinastring",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Writeaprogramtofindthelargestwordinagivenstriing",
       "request": "launch",
       "mainClass": "Writeaprogramtofindthelargestwordinagivenstriing",
