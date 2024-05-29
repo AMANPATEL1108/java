@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Countanumberofwordinstring",
+      "request": "launch",
+      "mainClass": "Countanumberofwordinstring",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Writeaprogramtosortchracterinastring",
       "request": "launch",
       "mainClass": "Writeaprogramtosortchracterinastring",
