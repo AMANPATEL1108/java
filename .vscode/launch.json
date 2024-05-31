@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Changecaseofeachcharacterinastring",
+      "request": "launch",
+      "mainClass": "Changecaseofeachcharacterinastring",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Countanumberofwordinstring",
       "request": "launch",
       "mainClass": "Countanumberofwordinstring",
