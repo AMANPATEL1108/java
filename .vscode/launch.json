@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Concatenateonestringtoanother",
+      "request": "launch",
+      "mainClass": "Concatenateonestringtoanother",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Changecaseofeachcharacterinastring",
       "request": "launch",
       "mainClass": "Changecaseofeachcharacterinastring",
