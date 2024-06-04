@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Binarymulti",
+      "request": "launch",
+      "mainClass": "Binarymulti",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Writeaprogramtocheckwhetherjavaisinstalledonyourcompute",
+      "request": "launch",
+      "mainClass": "Writeaprogramtocheckwhetherjavaisinstalledonyourcompute",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Concatenateonestringtoanother",
       "request": "launch",
       "mainClass": "Concatenateonestringtoanother",
