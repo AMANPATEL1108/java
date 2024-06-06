@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Writeaprogramtocomputethesumofintegers",
+      "request": "launch",
+      "mainClass": "Writeaprogramtocomputethesumofintegers",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Writeaprogramtocomparetwonumbers",
       "request": "launch",
       "mainClass": "Course.w3resourceExercise.JavaBasic.BasicExcercisePart1.Writeaprogramtocomparetwonumbers",
