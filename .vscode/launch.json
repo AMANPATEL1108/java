@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Computetheareaofhexapoligone",
+      "request": "launch",
+      "mainClass": "Computetheareaofhexapoligone",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Computetheareaofhexagone",
+      "request": "launch",
+      "mainClass": "Computetheareaofhexagone",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Writeaprogramtocomputethesumofintegers",
       "request": "launch",
       "mainClass": "Writeaprogramtocomputethesumofintegers",
