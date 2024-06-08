@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ReverseString_ex_37",
+      "request": "launch",
+      "mainClass": "ReverseString_ex_37",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Computethedistancebetweentwopointsonthesurfaceofearth_ex_36",
+      "request": "launch",
+      "mainClass": "Computethedistancebetweentwopointsonthesurfaceofearth_ex_36",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Computethedistancebetweentwopointsonthesurfaceofearth",
+      "request": "launch",
+      "mainClass": "Computethedistancebetweentwopointsonthesurfaceofearth",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Computetheareaofhexapoligone",
       "request": "launch",
       "mainClass": "Computetheareaofhexapoligone",
