@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Writeajavaprogramtocountlettersspacesnumbersandothercharactersininputstring_ex_38",
+      "request": "launch",
+      "mainClass": "Writeajavaprogramtocountlettersspacesnumbersandothercharactersininputstring_ex_38",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "ReverseString_ex_37",
       "request": "launch",
       "mainClass": "ReverseString_ex_37",
