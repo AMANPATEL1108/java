@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Listtheavaliablechractersetsincharsetobjects_ex_40",
+      "request": "launch",
+      "mainClass": "Listtheavaliablechractersetsincharsetobjects_ex_40",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Displayathreedigitnumberusing1234_ex_39",
+      "request": "launch",
+      "mainClass": "Displayathreedigitnumberusing1234_ex_39",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Writeajavaprogramtocountlettersspacesnumbersandothercharactersininputstring_ex_38",
       "request": "launch",
       "mainClass": "Writeajavaprogramtocountlettersspacesnumbersandothercharactersininputstring_ex_38",

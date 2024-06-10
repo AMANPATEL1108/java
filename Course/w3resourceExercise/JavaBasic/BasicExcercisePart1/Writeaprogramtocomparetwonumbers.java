@@ -1,5 +1,6 @@
 package Course.w3resourceExercise.JavaBasic.BasicExcercisePart1;
 
+
 /**
  * Writeaprogramtocomparetwonumbers
  */
