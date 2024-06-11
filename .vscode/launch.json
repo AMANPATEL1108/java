@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Inputanddisplaypassword_ex_42",
+      "request": "launch",
+      "mainClass": "Inputanddisplaypassword_ex_42",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Printtheasciivalueofthegivencharacter_ex_41",
+      "request": "launch",
+      "mainClass": "Printtheasciivalueofthegivencharacter_ex_41",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Listtheavaliablechractersetsincharsetobjects_ex_40",
       "request": "launch",
       "mainClass": "Listtheavaliablechractersetsincharsetobjects_ex_40",
