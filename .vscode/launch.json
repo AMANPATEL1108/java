@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Acceptsanintergerandcomputesthevalueofn_nn_nnn_ex_44",
+      "request": "launch",
+      "mainClass": "Acceptsanintergerandcomputesthevalueofn_nn_nnn_ex_44",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Printthefollowingstringinaspecificformat_ex_43",
+      "request": "launch",
+      "mainClass": "Printthefollowingstringinaspecificformat_ex_43",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Inputanddisplaypassword_ex_42",
       "request": "launch",
       "mainClass": "Inputanddisplaypassword_ex_42",
