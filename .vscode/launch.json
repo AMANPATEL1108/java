@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Displaythetime_ex_46",
+      "request": "launch",
+      "mainClass": "Displaythetime_ex_46",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Findthesizeofaspecifiedfile_ex_45",
+      "request": "launch",
+      "mainClass": "Findthesizeofaspecifiedfile_ex_45",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Acceptsanintergerandcomputesthevalueofn_nn_nnn_ex_44",
       "request": "launch",
       "mainClass": "Acceptsanintergerandcomputesthevalueofn_nn_nnn_ex_44",
