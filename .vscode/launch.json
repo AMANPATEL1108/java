@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Oddnumberprintqto99_ex_48",
+      "request": "launch",
+      "mainClass": "Oddnumberprintqto99_ex_48",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Displaycurrentdateandtimeinspecificformate_ex_47",
+      "request": "launch",
+      "mainClass": "Displaycurrentdateandtimeinspecificformate_ex_47",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Displaythetime_ex_46",
       "request": "launch",
       "mainClass": "Displaythetime_ex_46",
