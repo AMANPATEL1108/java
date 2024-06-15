@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Diivisibleby35_ex_50",
+      "request": "launch",
+      "mainClass": "Diivisibleby35_ex_50",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "CheckNumberisevenorodd_ex_49",
+      "request": "launch",
+      "mainClass": "CheckNumberisevenorodd_ex_49",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Oddnumberprintqto99_ex_48",
       "request": "launch",
       "mainClass": "Oddnumberprintqto99_ex_48",
