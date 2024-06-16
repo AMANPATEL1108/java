@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Comparearidgtdigit",
+      "request": "launch",
+      "mainClass": "Comparearidgtdigit",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "ConpareNumber_ex_53",
+      "request": "launch",
+      "mainClass": "ConpareNumber_ex_53",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Sumtwonumberfirstandseconequaltothirdthenreturntrue_ex_52",
       "request": "launch",
       "mainClass": "Sumtwonumberfirstandseconequaltothirdthenreturntrue_ex_52",
