@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Sumtwonumberfirstandseconequaltothirdthenreturntrue_ex_52",
+      "request": "launch",
+      "mainClass": "Sumtwonumberfirstandseconequaltothirdthenreturntrue_ex_52",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Stringtointegerconver_ex_51",
+      "request": "launch",
+      "mainClass": "Stringtointegerconver_ex_51",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Diivisibleby35_ex_50",
       "request": "launch",
       "mainClass": "Diivisibleby35_ex_50",
