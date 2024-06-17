@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Firstsecondrangedividebythirdnumber",
+      "request": "launch",
+      "mainClass": "Firstsecondrangedividebythirdnumber",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Convertsecondtominiteandhour_ex_55",
+      "request": "launch",
+      "mainClass": "Convertsecondtominiteandhour_ex_55",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Comparearidgtdigit",
       "request": "launch",
       "mainClass": "Comparearidgtdigit",
