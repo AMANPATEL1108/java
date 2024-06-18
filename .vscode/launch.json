@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Numberofvalueingivenrangedividebygivenvalur_ex_58",
+      "request": "launch",
+      "mainClass": "Numberofvalueingivenrangedividebygivenvalur_ex_58",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Countafactorofnumber_ex_57",
+      "request": "launch",
+      "mainClass": "Countafactorofnumber_ex_57",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Firstsecondrangedividebythirdnumber",
       "request": "launch",
       "mainClass": "Firstsecondrangedividebythirdnumber",
