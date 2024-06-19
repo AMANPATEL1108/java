@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Findpenultimatewordinasentence_ex_60",
+      "request": "launch",
+      "mainClass": "Findpenultimatewordinasentence_ex_60",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "ConvertintoLowercase_ex_59",
+      "request": "launch",
+      "mainClass": "ConvertintoLowercase_ex_59",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Numberofvalueingivenrangedividebygivenvalur_ex_58",
       "request": "launch",
       "mainClass": "Numberofvalueingivenrangedividebygivenvalur_ex_58",
