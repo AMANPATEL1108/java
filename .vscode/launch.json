@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "acceptvaluesiftureoneis20ormoreless_ex_62",
+      "request": "launch",
+      "mainClass": "acceptvaluesiftureoneis20ormoreless_ex_62",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Reversesaword_ex_61",
+      "request": "launch",
+      "mainClass": "Reversesaword_ex_61",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Findpenultimatewordinasentence_ex_60",
       "request": "launch",
       "mainClass": "Findpenultimatewordinasentence_ex_60",
