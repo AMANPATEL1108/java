@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Accepttwointegervaluesbtwn25to75andreturntrueifthereiscommondigitinbothnumber_ex_64",
+      "request": "launch",
+      "mainClass": "Accepttwointegervaluesbtwn25to75andreturntrueifthereiscommondigitinbothnumber_ex_64",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Acceptttwointegervaluefromuserandreturnthelargervalue_ex_63",
+      "request": "launch",
+      "mainClass": "Acceptttwointegervaluefromuserandreturnthelargervalue_ex_63",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "acceptvaluesiftureoneis20ormoreless_ex_62",
       "request": "launch",
       "mainClass": "acceptvaluesiftureoneis20ormoreless_ex_62",
