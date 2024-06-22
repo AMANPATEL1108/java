@@ -3,6 +3,174 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Buy_sell_stock",
+      "request": "launch",
+      "mainClass": "Buy_sell_stock",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Trappingrainwater",
+      "request": "launch",
+      "mainClass": "Trappingrainwater",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Max_subarraySum_three",
+      "request": "launch",
+      "mainClass": "Max_subarraySum_three",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Max_subarraySum",
+      "request": "launch",
+      "mainClass": "Max_subarraySum",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Maxsubarray_Two",
+      "request": "launch",
+      "mainClass": "Maxsubarray_Two",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "MaxSubarraysum",
+      "request": "launch",
+      "mainClass": "MaxSubarraysum",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Printsubarray",
+      "request": "launch",
+      "mainClass": "Printsubarray",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Pairsinarray",
+      "request": "launch",
+      "mainClass": "Pairsinarray",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Reverseanarray",
+      "request": "launch",
+      "mainClass": "Reverseanarray",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Binarysearch",
+      "request": "launch",
+      "mainClass": "Binarysearch",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Largestsmallestnumber",
+      "request": "launch",
+      "mainClass": "Largestsmallestnumber",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Largestnumber",
+      "request": "launch",
+      "mainClass": "Largestnumber",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "LinearSearch",
+      "request": "launch",
+      "mainClass": "LinearSearch",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Passingarray",
+      "request": "launch",
+      "mainClass": "Passingarray",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Create",
+      "request": "launch",
+      "mainClass": "Create",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "ArrayInputoutputcreateupdate",
+      "request": "launch",
+      "mainClass": "ArrayInputoutputcreateupdate",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Bonus",
+      "request": "launch",
+      "mainClass": "Bonus",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Hollowrhombus",
+      "request": "launch",
+      "mainClass": "Hollowrhombus",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Hollowractangle",
+      "request": "launch",
+      "mainClass": "Hollowractangle",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Trianglezeroone",
+      "request": "launch",
+      "mainClass": "Trianglezeroone",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Invertedpyramid",
+      "request": "launch",
+      "mainClass": "Invertedpyramid",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Invertedhalfpyramid",
+      "request": "launch",
+      "mainClass": "Invertedhalfpyramid",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Binarytodecimal",
+      "request": "launch",
+      "mainClass": "Binarytodecimal",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Practice",
+      "request": "launch",
+      "mainClass": "Practice",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Calculateamoduleofttwonumberwithoutusinginbulitfunction_ex_66",
       "request": "launch",
       "mainClass": "Calculateamoduleofttwonumberwithoutusinginbulitfunction_ex_66",
