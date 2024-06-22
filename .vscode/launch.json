@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Calculateamoduleofttwonumberwithoutusinginbulitfunction_ex_66",
+      "request": "launch",
+      "mainClass": "Calculateamoduleofttwonumberwithoutusinginbulitfunction_ex_66",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Sumofffirsthundred_ex_65",
+      "request": "launch",
+      "mainClass": "Sumofffirsthundred_ex_65",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Sumofffirst100_ex_65",
+      "request": "launch",
+      "mainClass": "Sumofffirst100_ex_65",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Accepttwointegervaluesbtwn25to75andreturntrueifthereiscommondigitinbothnumber_ex_64",
       "request": "launch",
       "mainClass": "Accepttwointegervaluesbtwn25to75andreturntrueifthereiscommondigitinbothnumber_ex_64",
