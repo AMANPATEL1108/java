@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Createanewstringof4copiesofthelastthreecharacteroforiginalstring_ex_68",
+      "request": "launch",
+      "mainClass": "Createanewstringof4copiesofthelastthreecharacteroforiginalstring_ex_68",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "insertwordinmiddleofstring_ex_67",
+      "request": "launch",
+      "mainClass": "insertwordinmiddleofstring_ex_67",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Buy_sell_stock",
       "request": "launch",
       "mainClass": "Buy_sell_stock",
