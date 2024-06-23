@@ -3,6 +3,139 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Stringfunctionsubstring",
+      "request": "launch",
+      "mainClass": "Stringfunctionsubstring",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Stringcomparision",
+      "request": "launch",
+      "mainClass": "Stringcomparision",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Shortestpath",
+      "request": "launch",
+      "mainClass": "Shortestpath",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Checkpalidromeornot",
+      "request": "launch",
+      "mainClass": "Checkpalidromeornot",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Stringcharmethod",
+      "request": "launch",
+      "mainClass": "Stringcharmethod",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Concatination",
+      "request": "launch",
+      "mainClass": "Concatination",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Stringlenth",
+      "request": "launch",
+      "mainClass": "Stringlenth",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "input_output",
+      "request": "launch",
+      "mainClass": "input_output",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Inputoutput",
+      "request": "launch",
+      "mainClass": "Inputoutput",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Searchinsortedmatrix",
+      "request": "launch",
+      "mainClass": "Searchinsortedmatrix",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Diagonalsum",
+      "request": "launch",
+      "mainClass": "Diagonalsum",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Spiralmatrix",
+      "request": "launch",
+      "mainClass": "Spiralmatrix",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Creation2darray",
+      "request": "launch",
+      "mainClass": "Creation2darray",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Counting_sort",
+      "request": "launch",
+      "mainClass": "Counting_sort",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Insertionsort",
+      "request": "launch",
+      "mainClass": "Insertionsort",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Selectionsort",
+      "request": "launch",
+      "mainClass": "Selectionsort",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "hello",
+      "request": "launch",
+      "mainClass": "hello",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Hello",
+      "request": "launch",
+      "mainClass": "Hello",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Bubbulesort",
+      "request": "launch",
+      "mainClass": "Bubbulesort",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Createanewstringof4copiesofthelastthreecharacteroforiginalstring_ex_68",
       "request": "launch",
       "mainClass": "Createanewstringof4copiesofthelastthreecharacteroforiginalstring_ex_68",
