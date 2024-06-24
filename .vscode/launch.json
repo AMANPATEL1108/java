@@ -3,6 +3,272 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Question",
+      "request": "launch",
+      "mainClass": "Question",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Correctstatementtoassigntoobject",
+      "request": "launch",
+      "mainClass": "Correctstatementtoassigntoobject",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Super_Keyword",
+      "request": "launch",
+      "mainClass": "Super_Keyword",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Static_keyword",
+      "request": "launch",
+      "mainClass": "Static_keyword",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Interface_java",
+      "request": "launch",
+      "mainClass": "Interface_java",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Abstraction",
+      "request": "launch",
+      "mainClass": "Abstraction",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Packagesinjava",
+      "request": "launch",
+      "mainClass": "Packagesinjava",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Polymorpisom_methodoverriding",
+      "request": "launch",
+      "mainClass": "Polymorpisom_methodoverriding",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Polymorphism_Methodoverloadning",
+      "request": "launch",
+      "mainClass": "Polymorphism_Methodoverloadning",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Inheritance",
+      "request": "launch",
+      "mainClass": "Inheritance",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Copyconstructor",
+      "request": "launch",
+      "mainClass": "Copyconstructor",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Constructor",
+      "request": "launch",
+      "mainClass": "Constructor",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Construcror",
+      "request": "launch",
+      "mainClass": "Construcror",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Encapsulation",
+      "request": "launch",
+      "mainClass": "Encapsulation",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "GettersSetters",
+      "request": "launch",
+      "mainClass": "GettersSetters",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Accessmodifier",
+      "request": "launch",
+      "mainClass": "Accessmodifier",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Pencreate",
+      "request": "launch",
+      "mainClass": "Pencreate",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "hello2",
+      "request": "launch",
+      "mainClass": "hello2",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Fastexponentiation",
+      "request": "launch",
+      "mainClass": "Fastexponentiation",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Countsetbitinnumber",
+      "request": "launch",
+      "mainClass": "Countsetbitinnumber",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Numberpowerof2ornotcheck",
+      "request": "launch",
+      "mainClass": "Numberpowerof2ornotcheck",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Clearrangeofbit",
+      "request": "launch",
+      "mainClass": "Clearrangeofbit",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Clearlastbit",
+      "request": "launch",
+      "mainClass": "Clearlastbit",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Updateith",
+      "request": "launch",
+      "mainClass": "Updateith",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Clearith",
+      "request": "launch",
+      "mainClass": "Clearith",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Setithbit",
+      "request": "launch",
+      "mainClass": "Setithbit",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Getitnbit",
+      "request": "launch",
+      "mainClass": "Getitnbit",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Oddevencheck",
+      "request": "launch",
+      "mainClass": "Oddevencheck",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Binaryrightshift",
+      "request": "launch",
+      "mainClass": "Binaryrightshift",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Binaryleftshift",
+      "request": "launch",
+      "mainClass": "Binaryleftshift",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Binary1scomplement",
+      "request": "launch",
+      "mainClass": "Binary1scomplement",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Binaryxor",
+      "request": "launch",
+      "mainClass": "Binaryxor",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Binaryoperation",
+      "request": "launch",
+      "mainClass": "Binaryoperation",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Andoperation",
+      "request": "launch",
+      "mainClass": "Andoperation",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Compression",
+      "request": "launch",
+      "mainClass": "Compression",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Converteachfirstletterofwordtouppercase",
+      "request": "launch",
+      "mainClass": "Converteachfirstletterofwordtouppercase",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Stringbuilder",
+      "request": "launch",
+      "mainClass": "Stringbuilder",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Printlargeststring",
+      "request": "launch",
+      "mainClass": "Printlargeststring",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Createstringformtwostring_ex_70",
       "request": "launch",
       "mainClass": "Createstringformtwostring_ex_70",
