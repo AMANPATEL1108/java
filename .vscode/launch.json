@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Createstringformtwostring_ex_70",
+      "request": "launch",
+      "mainClass": "Createstringformtwostring_ex_70",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Extracefirsthalfofaevenstring",
+      "request": "launch",
+      "mainClass": "Extracefirsthalfofaevenstring",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Stringfunctionsubstring",
       "request": "launch",
       "mainClass": "Stringfunctionsubstring",
