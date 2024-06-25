@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Createanewstringtakingthreechracterdromthegivenstring_ex_72",
+      "request": "launch",
+      "mainClass": "Createanewstringtakingthreechracterdromthegivenstring_ex_72",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Concatinationoftwostring",
+      "request": "launch",
+      "mainClass": "Concatinationoftwostring",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Question",
       "request": "launch",
       "mainClass": "Question",
