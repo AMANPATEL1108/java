@@ -3,6 +3,139 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Searchinrotatedsorted",
+      "request": "launch",
+      "mainClass": "Searchinrotatedsorted",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "SearchInRotatedSorted",
+      "request": "launch",
+      "mainClass": "SearchInRotatedSorted",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "QuickSort",
+      "request": "launch",
+      "mainClass": "QuickSort",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Mergesort",
+      "request": "launch",
+      "mainClass": "Mergesort",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "BinaryString",
+      "request": "launch",
+      "mainClass": "BinaryString",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Friendspairing",
+      "request": "launch",
+      "mainClass": "Friendspairing",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Removeduplicate",
+      "request": "launch",
+      "mainClass": "Removeduplicate",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Tilling",
+      "request": "launch",
+      "mainClass": "Tilling",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Printxpowernoptimized",
+      "request": "launch",
+      "mainClass": "Printxpowernoptimized",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Printxpowern",
+      "request": "launch",
+      "mainClass": "Printxpowern",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Lastoccurence",
+      "request": "launch",
+      "mainClass": "Lastoccurence",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Occurence",
+      "request": "launch",
+      "mainClass": "Occurence",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Checkarrayissortedornot",
+      "request": "launch",
+      "mainClass": "Checkarrayissortedornot",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Printnthfibonacci",
+      "request": "launch",
+      "mainClass": "Printnthfibonacci",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Sumofnnumber",
+      "request": "launch",
+      "mainClass": "Sumofnnumber",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Factorialn",
+      "request": "launch",
+      "mainClass": "Factorialn",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Printnumber1tonincresingorder",
+      "request": "launch",
+      "mainClass": "Printnumber1tonincresingorder",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Printnumber1tondecreasingorder",
+      "request": "launch",
+      "mainClass": "Printnumber1tondecreasingorder",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "iam",
+      "request": "launch",
+      "mainClass": "iam",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Createanewstringtakingthreechracterdromthegivenstring_ex_72",
       "request": "launch",
       "mainClass": "Createanewstringtakingthreechracterdromthegivenstring_ex_72",
