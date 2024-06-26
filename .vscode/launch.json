@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "TestIfAppearsAsEitherTheFirstOrLastElementOfAnArrayOfIntegers",
+      "request": "launch",
+      "mainClass": "TestIfAppearsAsEitherTheFirstOrLastElementOfAnArrayOfIntegers",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Takingfirstlastcharacterfromgivenstringeachstringlenis",
+      "request": "launch",
+      "mainClass": "Takingfirstlastcharacterfromgivenstringeachstringlenis",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Searchinrotatedsorted",
       "request": "launch",
       "mainClass": "Searchinrotatedsorted",
