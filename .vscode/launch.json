@@ -3,6 +3,55 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SudokuProblem",
+      "request": "launch",
+      "mainClass": "SudokuProblem",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Grid_ways",
+      "request": "launch",
+      "mainClass": "Grid_ways",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "NqueenProblem",
+      "request": "launch",
+      "mainClass": "NqueenProblem",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "FindPermutation",
+      "request": "launch",
+      "mainClass": "FindPermutation",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Findsubset",
+      "request": "launch",
+      "mainClass": "Findsubset",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "BackTrackingInArray",
+      "request": "launch",
+      "mainClass": "BackTrackingInArray",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "heello",
+      "request": "launch",
+      "mainClass": "heello",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "TestIfAppearsAsEitherTheFirstOrLastElementOfAnArrayOfIntegers",
       "request": "launch",
       "mainClass": "TestIfAppearsAsEitherTheFirstOrLastElementOfAnArrayOfIntegers",
