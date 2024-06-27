@@ -3,6 +3,90 @@
   "configurations": [
     {
       "type": "java",
+      "name": "LinkedListExample",
+      "request": "launch",
+      "mainClass": "LinkedListExample",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Linkdlist",
+      "request": "launch",
+      "mainClass": "Linkdlist",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "PairSumtwoadvanced",
+      "request": "launch",
+      "mainClass": "PairSumtwoadvanced",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Pairsumone",
+      "request": "launch",
+      "mainClass": "Pairsumone",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Containerwithmostwatertwopointerapproach",
+      "request": "launch",
+      "mainClass": "Containerwithmostwatertwopointerapproach",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Containerwithmostwater",
+      "request": "launch",
+      "mainClass": "Containerwithmostwater",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Multidimensionalarraylist",
+      "request": "launch",
+      "mainClass": "Multidimensionalarraylist",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Sortingarraylist",
+      "request": "launch",
+      "mainClass": "Sortingarraylist",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Swaptwonumber",
+      "request": "launch",
+      "mainClass": "Swaptwonumber",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Findmaxnuminarraylist",
+      "request": "launch",
+      "mainClass": "Findmaxnuminarraylist",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Reversearraylist",
+      "request": "launch",
+      "mainClass": "Reversearraylist",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Operationarraylist",
+      "request": "launch",
+      "mainClass": "Operationarraylist",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Firstandlastelenmentaresameinarray_ex_76",
       "request": "launch",
       "mainClass": "Firstandlastelenmentaresameinarray_ex_76",
