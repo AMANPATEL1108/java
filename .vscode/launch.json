@@ -3,6 +3,48 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Validparentheses",
+      "request": "launch",
+      "mainClass": "Validparentheses",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "NextGreterelements",
+      "request": "launch",
+      "mainClass": "NextGreterelements",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Stockspanproblem",
+      "request": "launch",
+      "mainClass": "Stockspanproblem",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "StackB",
+      "request": "launch",
+      "mainClass": "StackB",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "DoubleLL",
+      "request": "launch",
+      "mainClass": "DoubleLL",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Llincollectionframework",
+      "request": "launch",
+      "mainClass": "Llincollectionframework",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Givenarrayofintegerlengthtwocontainsafourorseven_ex_78",
       "request": "launch",
       "mainClass": "BasicExcercisePart1.Givenarrayofintegerlengthtwocontainsafourorseven_ex_78",
