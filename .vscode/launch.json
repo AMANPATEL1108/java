@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Givenarrayofintegerlengthtwocontainsafourorseven_ex_78",
+      "request": "launch",
+      "mainClass": "BasicExcercisePart1.Givenarrayofintegerlengthtwocontainsafourorseven_ex_78",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Createtwoarrayandfirstarrayfirstelementandsecondarraylastelementprint_ex_77",
+      "request": "launch",
+      "mainClass": "BasicExcercisePart1.Createtwoarrayandfirstarrayfirstelementandsecondarraylastelementprint_ex_77",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Createtwoarrayandfirstarrayfirstelementandsecondarraylastelementprint_ex_77",
+      "request": "launch",
+      "mainClass": "Course.w3resourceExercise.JavaBasic.Createtwoarrayandfirstarrayfirstelementandsecondarraylastelementprint_ex_77",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "LinkedListExample",
       "request": "launch",
       "mainClass": "LinkedListExample",
