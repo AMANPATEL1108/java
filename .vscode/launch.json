@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Getlargerelementoffirstandlastelementsofarray",
+      "request": "launch",
+      "mainClass": "Getlargerelementoffirstandlastelementsofarray",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Roatetarraylengthintergerofleftdirection",
+      "request": "launch",
+      "mainClass": "Roatetarraylengthintergerofleftdirection",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Validparentheses",
       "request": "launch",
       "mainClass": "Validparentheses",
