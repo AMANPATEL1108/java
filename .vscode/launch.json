@@ -3,6 +3,90 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ActivitySelection",
+      "request": "launch",
+      "mainClass": "ActivitySelection",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "hel",
+      "request": "launch",
+      "mainClass": "hel",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Stackqueueusingdeque",
+      "request": "launch",
+      "mainClass": "Stackqueueusingdeque",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Dequesolv",
+      "request": "launch",
+      "mainClass": "Dequesolv",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Deque",
+      "request": "launch",
+      "mainClass": "Deque",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "QueueReversal",
+      "request": "launch",
+      "mainClass": "QueueReversal",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "InterleaveTwoHalvesQueue",
+      "request": "launch",
+      "mainClass": "InterleaveTwoHalvesQueue",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "NonRepeatingprint",
+      "request": "launch",
+      "mainClass": "NonRepeatingprint",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "twoQueue",
+      "request": "launch",
+      "mainClass": "twoQueue",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "TwoQueue",
+      "request": "launch",
+      "mainClass": "TwoQueue",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Queueusingtwostack",
+      "request": "launch",
+      "mainClass": "Queueusingtwostack",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "QueueB",
+      "request": "launch",
+      "mainClass": "QueueB",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Getlargerelementoffirstandlastelementsofarray",
       "request": "launch",
       "mainClass": "Getlargerelementoffirstandlastelementsofarray",
