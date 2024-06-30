@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Firstmiddlelastlargestelementinevenlengthintegerarray_ex_82",
+      "request": "launch",
+      "mainClass": "Firstmiddlelastlargestelementinevenlengthintegerarray_ex_82",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Swapfirstandlastarrayandcreateanewarray",
+      "request": "launch",
+      "mainClass": "Swapfirstandlastarrayandcreateanewarray",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "ActivitySelection",
       "request": "launch",
       "mainClass": "ActivitySelection",
