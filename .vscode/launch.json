@@ -3,6 +3,69 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Heightoftree",
+      "request": "launch",
+      "mainClass": "Heightoftree",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "BinaryTree",
+      "request": "launch",
+      "mainClass": "BinaryTree",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "index",
+      "request": "launch",
+      "mainClass": "index",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Chocolaprobrm",
+      "request": "launch",
+      "mainClass": "Chocolaprobrm",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Jobsequencingproblem",
+      "request": "launch",
+      "mainClass": "Jobsequencingproblem",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Indiancoin",
+      "request": "launch",
+      "mainClass": "Indiancoin",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Maxlengthofpairs",
+      "request": "launch",
+      "mainClass": "Maxlengthofpairs",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Minabsolutedifferencepairs",
+      "request": "launch",
+      "mainClass": "Minabsolutedifferencepairs",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Fractionalknapsack",
+      "request": "launch",
+      "mainClass": "Fractionalknapsack",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Firstmiddlelastlargestelementinevenlengthintegerarray_ex_82",
       "request": "launch",
       "mainClass": "Firstmiddlelastlargestelementinevenlengthintegerarray_ex_82",
