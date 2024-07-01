@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "lastthreecharactertostringaddthreecharacterboththefrontandbackthestringlengthmustbethreeormore_ex_84",
+      "request": "launch",
+      "mainClass": "lastthreecharactertostringaddthreecharacterboththefrontandbackthestringlengthmustbethreeormore_ex_84",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Mutiplythecorrespondingelementsoftwointegerarrays_ex_83",
+      "request": "launch",
+      "mainClass": "Mutiplythecorrespondingelementsoftwointegerarrays_ex_83",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Heightoftree",
       "request": "launch",
       "mainClass": "Heightoftree",
