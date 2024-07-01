@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Mirror",
+      "request": "launch",
+      "mainClass": "Mirror",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Buildbst",
+      "request": "launch",
+      "mainClass": "Buildbst",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "bi",
+      "request": "launch",
+      "mainClass": "bi",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "lastthreecharactertostringaddthreecharacterboththefrontandbackthestringlengthmustbethreeormore_ex_84",
       "request": "launch",
       "mainClass": "lastthreecharactertostringaddthreecharacterboththefrontandbackthestringlengthmustbethreeormore_ex_84",
