@@ -3,6 +3,90 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Slidingwindowmaximum",
+      "request": "launch",
+      "mainClass": "Slidingwindowmaximum",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "SlidingWindowMaximum",
+      "request": "launch",
+      "mainClass": "SlidingWindowMaximum",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Weakestsoldier",
+      "request": "launch",
+      "mainClass": "Weakestsoldier",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Connectnropes",
+      "request": "launch",
+      "mainClass": "Connectnropes",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Nearbycar",
+      "request": "launch",
+      "mainClass": "Nearbycar",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Heapsort",
+      "request": "launch",
+      "mainClass": "Heapsort",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "HeapImp",
+      "request": "launch",
+      "mainClass": "HeapImp",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "PriorityQueueCreate",
+      "request": "launch",
+      "mainClass": "PriorityQueueCreate",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "proritiequeuecreate",
+      "request": "launch",
+      "mainClass": "proritiequeuecreate",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Avltree",
+      "request": "launch",
+      "mainClass": "Avltree",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Largestbst",
+      "request": "launch",
+      "mainClass": "Largestbst",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Addition",
+      "request": "launch",
+      "mainClass": "Addition",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Stringstartspecificdata_ex_85",
       "request": "launch",
       "mainClass": "Stringstartspecificdata_ex_85",
