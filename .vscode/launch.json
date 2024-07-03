@@ -3,6 +3,132 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Trieds",
+      "request": "launch",
+      "mainClass": "Trieds",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "home",
+      "request": "launch",
+      "mainClass": "home",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Subarraysumequaltok",
+      "request": "launch",
+      "mainClass": "Subarraysumequaltok",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Largestarraywithsumzero",
+      "request": "launch",
+      "mainClass": "Largestarraywithsumzero",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Finditineraryfromticketproblem",
+      "request": "launch",
+      "mainClass": "Finditineraryfromticketproblem",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "UnionIntersectionOfTwoArrays",
+      "request": "launch",
+      "mainClass": "UnionIntersectionOfTwoArrays",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Unionintersectionoftwoarray",
+      "request": "launch",
+      "mainClass": "Unionintersectionoftwoarray",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Countdistinctelementproblem",
+      "request": "launch",
+      "mainClass": "Countdistinctelementproblem",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Linkedhashset",
+      "request": "launch",
+      "mainClass": "Linkedhashset",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Iterationonhashset",
+      "request": "launch",
+      "mainClass": "Iterationonhashset",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Hashsetoperation",
+      "request": "launch",
+      "mainClass": "Hashsetoperation",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "validanagramproblem",
+      "request": "launch",
+      "mainClass": "validanagramproblem",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Majorityelementsproblem",
+      "request": "launch",
+      "mainClass": "Majorityelementsproblem",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Treemaphash",
+      "request": "launch",
+      "mainClass": "Treemaphash",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "LinkedHashMapImp",
+      "request": "launch",
+      "mainClass": "LinkedHashMapImp",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Hashoperation",
+      "request": "launch",
+      "mainClass": "Hashoperation",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Interation",
+      "request": "launch",
+      "mainClass": "Interation",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Hash",
+      "request": "launch",
+      "mainClass": "Hash",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Currentsyste_ex_88",
       "request": "launch",
       "mainClass": "Currentsyste_ex_88",
