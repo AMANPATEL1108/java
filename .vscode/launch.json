@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Currentsyste_ex_88",
+      "request": "launch",
+      "mainClass": "Currentsyste_ex_88",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Sumoftwointegerdigitandweritetheeachnumberinenglish_ex_87",
+      "request": "launch",
+      "mainClass": "Sumoftwointegerdigitandweritetheeachnumberinenglish_ex_87",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Slidingwindowmaximum",
       "request": "launch",
       "mainClass": "Slidingwindowmaximum",
