@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "GraphProblem",
+      "request": "launch",
+      "mainClass": "GraphProblem",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Graphall",
+      "request": "launch",
+      "mainClass": "Graphall",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "BFS",
+      "request": "launch",
+      "mainClass": "BFS",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "CreateGraph",
+      "request": "launch",
+      "mainClass": "CreateGraph",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Getavalueoftheenvironmentvariablepathtempusername",
       "request": "launch",
       "mainClass": "Getavalueoftheenvironmentvariablepathtempusername",
