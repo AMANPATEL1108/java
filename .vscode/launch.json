@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Getavalueoftheenvironmentvariablepathtempusername",
+      "request": "launch",
+      "mainClass": "Getavalueoftheenvironmentvariablepathtempusername",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Checkweathersecuritymanagerhasalreadybeenestablishedforcurrentapplicationornot",
+      "request": "launch",
+      "mainClass": "Checkweathersecuritymanagerhasalreadybeenestablishedforcurrentapplicationornot",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "NestedLoop",
+      "request": "launch",
+      "mainClass": "NestedLoop",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Trieds",
       "request": "launch",
       "mainClass": "Trieds",
