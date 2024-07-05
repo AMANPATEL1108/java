@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Counttheintegerofevenandoddelementingivenarrayofinteger_exx_92",
+      "request": "launch",
+      "mainClass": "Counttheintegerofevenandoddelementingivenarrayofinteger_exx_92",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Measurehoelongsomecodetakestoexecuteinnanosecond_ex_91",
+      "request": "launch",
+      "mainClass": "Measurehoelongsomecodetakestoexecuteinnanosecond_ex_91",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "GraphProblem",
       "request": "launch",
       "mainClass": "GraphProblem",
