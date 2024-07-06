@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Rearrangealltheelementsofangivenarrayofintegersothatalltheoddnumberscomrbeforealltheevennumbers",
+      "request": "launch",
+      "mainClass": "Rearrangealltheelementsofangivenarrayofintegersothatalltheoddnumberscomrbeforealltheevennumbers",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Testifanarrayofintegercontain1010or2020butnotboth_ex_93",
+      "request": "launch",
+      "mainClass": "Testifanarrayofintegercontain1010or2020butnotboth_ex_93",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Counttheintegerofevenandoddelementingivenarrayofinteger_exx_92",
       "request": "launch",
       "mainClass": "Counttheintegerofevenandoddelementingivenarrayofinteger_exx_92",
