@@ -38,6 +38,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.InvertedStarpattern.java.executor": "Coverage",
+    "Application.run main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "java",
     "ignore.virus.scanning.warn.message": "true",
