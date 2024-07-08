@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Checkifthevalue20apperarsthreetimesandno20sarenexttoeachotherinthegivenarrrayinteger_ex_98",
+      "request": "launch",
+      "mainClass": "Checkifthevalue20apperarsthreetimesandno20sarenexttoeachotherinthegivenarrrayinteger_ex_98",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Checkifanarayintegerachothertwosamespecificationnumbersepratedbyoneelement_ex_97",
+      "request": "launch",
+      "mainClass": "Checkifanarayintegerachothertwosamespecificationnumbersepratedbyoneelement_ex_97",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Checkifthereisa10ingivenarrayofintegerswitha20somewherelaterinthearray_ex_96",
       "request": "launch",
       "mainClass": "Checkifthereisa10ingivenarrayofintegerswitha20somewherelaterinthearray_ex_96",
