@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Countthetwoelementoftwogivenarrayofintegerwithsamelengthdifferby1orless_ex_100",
+      "request": "launch",
+      "mainClass": "Countthetwoelementoftwogivenarrayofintegerwithsamelengthdifferby1orless_ex_100",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Checkifspecifiednumberappersineverypairofadjacentelementofthegivenaeeayofinteger_ex_99",
+      "request": "launch",
+      "mainClass": "Checkifspecifiednumberappersineverypairofadjacentelementofthegivenaeeayofinteger_ex_99",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Checkifthevalue20apperarsthreetimesandno20sarenexttoeachotherinthegivenarrrayinteger_ex_98",
       "request": "launch",
       "mainClass": "Checkifthevalue20apperarsthreetimesandno20sarenexttoeachotherinthegivenarrrayinteger_ex_98",
