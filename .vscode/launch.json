@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "createarraywillcontainelementgivenarraybeforethelastelementvalue10_ex_104",
+      "request": "launch",
+      "mainClass": "createarraywillcontainelementgivenarraybeforethelastelementvalue10_ex_104",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "givenandvalueconainafternewarraylastelementvalue10_ex_103",
+      "request": "launch",
+      "mainClass": "givenandvalueconainafternewarraylastelementvalue10_ex_103",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Checkifnumberof10or30sinagivenarrayofinteger_ex_102",
       "request": "launch",
       "mainClass": "Checkifnumberof10or30sinagivenarrayofinteger_ex_102",
