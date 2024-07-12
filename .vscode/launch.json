@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Createanewarraythatleftshiftedfromagivenarrayofintegers",
+      "request": "launch",
+      "mainClass": "Createanewarraythatleftshiftedfromagivenarrayofintegers",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Checkifagroupatstartandendofagivenaresame",
+      "request": "launch",
+      "mainClass": "Checkifagroupatstartandendofagivenaresame",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "createarraywillcontainelementgivenarraybeforethelastelementvalue10_ex_104",
       "request": "launch",
       "mainClass": "createarraywillcontainelementgivenarraybeforethelastelementvalue10_ex_104",
