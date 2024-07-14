@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CheckWeatheragivenintegerisapowerog4ornot_ex_110",
+      "request": "launch",
+      "mainClass": "CheckWeatheragivenintegerisapowerog4ornot_ex_110",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Fromstaircaseshapeofncoinswhereeceykthrowmusthaveexactlycoins_ex_109",
+      "request": "launch",
+      "mainClass": "Fromstaircaseshapeofncoinswhereeceykthrowmusthaveexactlycoins_ex_109",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Addthedigitsofgivenpositiveintegeruntiltheresulthasasingledigit_ex_108",
       "request": "launch",
       "mainClass": "Addthedigitsofgivenpositiveintegeruntiltheresulthasasingledigit_ex_108",
