@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Computethenumberoftrailingzerosinafactorial_ex_112",
+      "request": "launch",
+      "mainClass": "Computethenumberoftrailingzerosinafactorial_ex_112",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Addtwonumberswithoutusinganyarithmeticoperator_ex_111",
+      "request": "launch",
+      "mainClass": "Addtwonumberswithoutusinganyarithmeticoperator_ex_111",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "CheckWeatheragivenintegerisapowerog4ornot_ex_110",
       "request": "launch",
       "mainClass": "CheckWeatheragivenintegerisapowerog4ornot_ex_110",
