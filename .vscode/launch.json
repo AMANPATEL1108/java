@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Givenastringandanoffsetrotatestringbyoffset_ex_114",
+      "request": "launch",
+      "mainClass": "Givenastringandanoffsetrotatestringbyoffset_ex_114",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Mergetwogivensortedarrayofintegersandcreateanewarray_ex_113",
+      "request": "launch",
+      "mainClass": "Mergetwogivensortedarrayofintegersandcreateanewarray_ex_113",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Computethenumberoftrailingzerosinafactorial_ex_112",
       "request": "launch",
       "mainClass": "Computethenumberoftrailingzerosinafactorial_ex_112",
