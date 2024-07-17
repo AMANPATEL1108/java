@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Iteratingontwointegertogetfizzbuzzandfizzbuzz_ex_116",
+      "request": "launch",
+      "mainClass": "Iteratingontwointegertogetfizzbuzzandfizzbuzz_ex_116",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Checkifapositivenumberisapalidromeornot_ex_115",
+      "request": "launch",
+      "mainClass": "Checkifapositivenumberisapalidromeornot_ex_115",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Givenastringandanoffsetrotatestringbyoffset_ex_114",
       "request": "launch",
       "mainClass": "Givenastringandanoffsetrotatestringbyoffset_ex_114",
