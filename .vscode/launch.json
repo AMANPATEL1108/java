@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Getthefirstoccurrenceofastringwithinagivenstring_ex_118",
+      "request": "launch",
+      "mainClass": "Getthefirstoccurrenceofastringwithinagivenstring_ex_118",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Computethesquarerootofthegivenintege_ex_117",
+      "request": "launch",
+      "mainClass": "Computethesquarerootofthegivenintege_ex_117",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Iteratingontwointegertogetfizzbuzzandfizzbuzz_ex_116",
       "request": "launch",
       "mainClass": "Iteratingontwointegertogetfizzbuzzandfizzbuzz_ex_116",
