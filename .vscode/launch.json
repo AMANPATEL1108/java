@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Searchavalueinanmxnmatrinx_ex_120",
+      "request": "launch",
+      "mainClass": "Searchavalueinanmxnmatrinx_ex_120",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Getthefirdtoccurrenceofanelementofsgivenarray_ex_119",
+      "request": "launch",
+      "mainClass": "Getthefirdtoccurrenceofanelementofsgivenarray_ex_119",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Getthefirstoccurrenceofastringwithinagivenstring_ex_118",
       "request": "launch",
       "mainClass": "Getthefirstoccurrenceofastringwithinagivenstring_ex_118",
