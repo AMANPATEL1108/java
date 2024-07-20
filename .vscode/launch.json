@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Findacontiguoussubarraywithlargestsumfromagivenarrayofinteger_ex_122",
+      "request": "launch",
+      "mainClass": "Findacontiguoussubarraywithlargestsumfromagivenarrayofinteger_ex_122",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Reverseagivenlinkedlist_ex_121",
+      "request": "launch",
+      "mainClass": "Reverseagivenlinkedlist_ex_121",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Searchavalueinanmxnmatrinx_ex_120",
       "request": "launch",
       "mainClass": "Searchavalueinanmxnmatrinx_ex_120",
