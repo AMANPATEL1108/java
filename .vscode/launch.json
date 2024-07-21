@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Findtheindexofavalueinsortedarray_ex_124",
+      "request": "launch",
+      "mainClass": "Findtheindexofavalueinsortedarray_ex_124",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Findthesubarraywithsmallestsumfromagivenarrayofintegers_ex_123",
+      "request": "launch",
+      "mainClass": "Findthesubarraywithsmallestsumfromagivenarrayofintegers_ex_123",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Findacontiguoussubarraywithlargestsumfromagivenarrayofinteger_ex_122",
       "request": "launch",
       "mainClass": "Findacontiguoussubarraywithlargestsumfromagivenarrayofinteger_ex_122",
