@@ -15,19 +15,19 @@ class BinaryTree {
         root = null;
     }
 
-    void print_Inorder(Node node) {
+    void print_Writeaprogram(Node node) {
         if (node == null)
             return;
 
-        print_Inorder(node.left);
+        print_Writeaprogram(node.left);
 
         System.out.print(node.key + " ");
 
-        print_Inorder(node.right);
+        print_Writeaprogram(node.right);
     }
 
-    void print_Inorder() {
-        print_Inorder(root);
+    void print_Writeaprogram() {
+        print_Writeaprogram(root);
     }
 
     public static void main(String[] args) {
@@ -41,7 +41,7 @@ class BinaryTree {
         tree.root.right.left = new Node(76);
         tree.root.right.right = new Node(91);
 
-        System.out.println("\nInorder traversal of binary tree is: ");
-        tree.print_Inorder();
+        System.out.println("\nWriteaprogram traversal of binary tree is: ");
+        tree.print_Writeaprogram();
     }
 }
