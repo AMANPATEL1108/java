@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Getthepreordertraversalofitsnodesvaluesofagivenbinarytree_ex_125",
+      "request": "launch",
+      "mainClass": "Getthepreordertraversalofitsnodesvaluesofagivenbinarytree_ex_125",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Findtheindexofavalueinsortedarray_ex_124",
       "request": "launch",
       "mainClass": "Findtheindexofavalueinsortedarray_ex_124",
