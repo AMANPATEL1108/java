@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Calculatethemedianofthegivenunsortedarrayofintegers_ex_128",
+      "request": "launch",
+      "mainClass": "Calculatethemedianofthegivenunsortedarrayofintegers_ex_128",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Getthepreordertraversalofitsnodesvaluesofagivenbinarytree_ex_125",
       "request": "launch",
       "mainClass": "Getthepreordertraversalofitsnodesvaluesofagivenbinarytree_ex_125",
