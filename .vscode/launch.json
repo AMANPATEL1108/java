@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Findanumberthatapperarsonlyonceinagivenarrayofintegersallnumersocuurtwice_ex_129",
+      "request": "launch",
+      "mainClass": "Findanumberthatapperarsonlyonceinagivenarrayofintegersallnumersocuurtwice_ex_129",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Calculatethemedianofthegivenunsortedarrayofintegers_ex_128",
       "request": "launch",
       "mainClass": "Calculatethemedianofthegivenunsortedarrayofintegers_ex_128",
