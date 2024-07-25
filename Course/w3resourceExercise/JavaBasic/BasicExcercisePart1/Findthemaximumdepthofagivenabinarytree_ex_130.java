@@ -7,7 +7,7 @@ class Node {
     }
 }
 
-public class Findthemaximumdepthofagivenabinarytree_ex_120 {
+public class Findthemaximumdepthofagivenabinarytree_ex_130 {
     Node root;
 
     public int maxDepth(Node root) {
@@ -20,7 +20,7 @@ public class Findthemaximumdepthofagivenabinarytree_ex_120 {
     }
 
     public static void main(String[] args) {
-        Findthemaximumdepthofagivenabinarytree_ex_120 tree = new Findthemaximumdepthofagivenabinarytree_ex_120();
+        Findthemaximumdepthofagivenabinarytree_ex_130 tree = new Findthemaximumdepthofagivenabinarytree_ex_130();
         tree.root = new Node(55);
         tree.root.left = new Node(21);
         tree.root.right = new Node(80);

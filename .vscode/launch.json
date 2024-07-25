@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Findthenewlengthofagivensortedarray_ex_132",
+      "request": "launch",
+      "mainClass": "Findthenewlengthofagivensortedarray_ex_132",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Findthenewlengthofagivensortedarraywhereeachelecmentappearsonlyonce_ex_131",
+      "request": "launch",
+      "mainClass": "Findthenewlengthofagivensortedarraywhereeachelecmentappearsonlyonce_ex_131",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Findanumberthatapperarsonlyonceinagivenarrayofintegersallnumersocuurtwice_ex_129",
       "request": "launch",
       "mainClass": "Findanumberthatapperarsonlyonceinagivenarrayofintegersallnumersocuurtwice_ex_129",
