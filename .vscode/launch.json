@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Findthedistinctwaysyoucanclimbtothetop_ex_134",
+      "request": "launch",
+      "mainClass": "Findthedistinctwaysyoucanclimbtothetop_ex_134",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Findapathfromtoplefttobottominrightdirection_ex_133",
+      "request": "launch",
+      "mainClass": "Findapathfromtoplefttobottominrightdirection_ex_133",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Findthenewlengthofagivensortedarray_ex_132",
       "request": "launch",
       "mainClass": "Findthenewlengthofagivensortedarray_ex_132",
