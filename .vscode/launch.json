@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Findpossibleuniquepathsfromtopleftcornertobottomrightcoenerofaspecifiedgrid_ex_136",
+      "request": "launch",
+      "mainClass": "Findpossibleuniquepathsfromtopleftcornertobottomrightcoenerofaspecifiedgrid_ex_136",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "LinkedList",
+      "request": "launch",
+      "mainClass": "LinkedList",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Removeduplicatedsortedlinkedlist_ex_135",
+      "request": "launch",
+      "mainClass": "Removeduplicatedsortedlinkedlist_ex_135",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Findthedistinctwaysyoucanclimbtothetop_ex_134",
       "request": "launch",
       "mainClass": "Findthedistinctwaysyoucanclimbtothetop_ex_134",
