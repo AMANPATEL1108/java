@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "FindalloftheLongestwordinagivendictionary_ex_138",
+      "request": "launch",
+      "mainClass": "FindalloftheLongestwordinagivendictionary_ex_138",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "FindPossibleUniquePathConsideringSomeFromTopLeftToBottomRightCornerOfSpecificGrid_ex_137",
+      "request": "launch",
+      "mainClass": "FindPossibleUniquePathConsideringSomeFromTopLeftToBottomRightCornerOfSpecificGrid_ex_137",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Solution",
       "request": "launch",
       "mainClass": "Solution",
