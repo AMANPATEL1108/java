@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MergerAllOverlappingIntervalsFromCollection_ex_140",
+      "request": "launch",
+      "mainClass": "MergerAllOverlappingIntervalsFromCollection_ex_140",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "gettheindexofthefirstnumberandthelastnumberofasubarray_ex_139",
+      "request": "launch",
+      "mainClass": "gettheindexofthefirstnumberandthelastnumberofasubarray_ex_139",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "FindalloftheLongestwordinagivendictionary_ex_138",
       "request": "launch",
       "mainClass": "FindalloftheLongestwordinagivendictionary_ex_138",
