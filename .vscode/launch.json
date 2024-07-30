@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Ccheckiftwogivenstringsareanagramsornot_ex_142",
+      "request": "launch",
+      "mainClass": "Ccheckiftwogivenstringsareanagramsornot_ex_142",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Checkifagivenstringhasalluniquechracters_ex_141",
+      "request": "launch",
+      "mainClass": "Checkifagivenstringhasalluniquechracters_ex_141",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "MergerAllOverlappingIntervalsFromCollection_ex_140",
       "request": "launch",
       "mainClass": "MergerAllOverlappingIntervalsFromCollection_ex_140",
