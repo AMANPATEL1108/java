@@ -1,4 +1,4 @@
-public class Ccheckiftwogivenstringsareanagramsornot_ex_142 {
+public class Checkiftwogivenstringsareanagramsornot_ex_142 {
     /**
      * @param s: The first string
      * @param b: The second string

@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Removeallocurrencesofaspecifiedvalueinagivenarrayreturnthenewlength_ex_144",
+      "request": "launch",
+      "mainClass": "Removeallocurrencesofaspecifiedvalueinagivenarrayreturnthenewlength_ex_144",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Mergetwogivensortedlist_ex_143",
+      "request": "launch",
+      "mainClass": "Mergetwogivensortedlist_ex_143",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Ccheckiftwogivenstringsareanagramsornot_ex_142",
       "request": "launch",
       "mainClass": "Ccheckiftwogivenstringsareanagramsornot_ex_142",
