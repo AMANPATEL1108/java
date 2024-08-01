@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Convertansortedarraytobinarysearch_ex_146",
+      "request": "launch",
+      "mainClass": "Convertansortedarraytobinarysearch_ex_146",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Removethenthelementfromtheendofagicenlist_ex_145",
+      "request": "launch",
+      "mainClass": "Removethenthelementfromtheendofagicenlist_ex_145",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Removeallocurrencesofaspecifiedvalueinagivenarrayreturnthenewlength_ex_144",
       "request": "launch",
       "mainClass": "Removeallocurrencesofaspecifiedvalueinagivenarrayreturnthenewlength_ex_144",
