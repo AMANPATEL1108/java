@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Findindxofthefirstuniquecharacterinagivenstring_ex_148",
+      "request": "launch",
+      "mainClass": "Findindxofthefirstuniquecharacterinagivenstring_ex_148",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Findthenumberofbitsrequiredtofliptoconverttwogivenintegers_ex_147",
+      "request": "launch",
+      "mainClass": "Findthenumberofbitsrequiredtofliptoconverttwogivenintegers_ex_147",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Convertansortedarraytobinarysearch_ex_146",
       "request": "launch",
       "mainClass": "Convertansortedarraytobinarysearch_ex_146",
