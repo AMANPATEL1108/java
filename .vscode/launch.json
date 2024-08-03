@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Testifabinarytreeisasubtreeofanotherbinarytree_ex_150",
+      "request": "launch",
+      "mainClass": "Testifabinarytreeisasubtreeofanotherbinarytree_ex_150",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Checkifagivenstringisapermutationofanottherspecifiedstring_ex_149",
+      "request": "launch",
+      "mainClass": "Checkifagivenstringisapermutationofanottherspecifiedstring_ex_149",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Findindxofthefirstuniquecharacterinagivenstring_ex_148",
       "request": "launch",
       "mainClass": "Findindxofthefirstuniquecharacterinagivenstring_ex_148",
