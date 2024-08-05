@@ -20,4 +20,4 @@ public class Maxmin {
         System.out.println("maximum no is :" + Math.min(num1, num2));
 
     }
-}
+}x
