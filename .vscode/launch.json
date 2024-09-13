@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PiramidUp",
+      "request": "launch",
+      "mainClass": "PiramidUp",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "RightSidePiramid",
+      "request": "launch",
+      "mainClass": "RightSidePiramid",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "DownPiramid",
+      "request": "launch",
+      "mainClass": "DownPiramid",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Piramid",
+      "request": "launch",
+      "mainClass": "Piramid",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "Testifabinarytreeisasubtreeofanotherbinarytree_ex_150",
       "request": "launch",
       "mainClass": "Testifabinarytreeisasubtreeofanotherbinarytree_ex_150",
