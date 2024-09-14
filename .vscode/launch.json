@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Piramid_Simple",
+      "request": "launch",
+      "mainClass": "Piramid_Simple",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
+      "name": "Piramid_Simple",
+      "request": "launch",
+      "mainClass": "New_Practice_1309.Piramid_Simple",
+      "projectName": "java_5ef759c9"
+    },
+    {
+      "type": "java",
       "name": "PiramidUp",
       "request": "launch",
       "mainClass": "PiramidUp",
