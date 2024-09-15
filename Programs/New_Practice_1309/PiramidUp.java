@@ -74,8 +74,7 @@ public class PiramidUp {
             System.out.println();
         }
 
-        // for left side half
-
+        // for left side full
         for (int i = 1; i <= 5; i++) {
 
             for (int j = 0; j <= n - i; j++) {
