@@ -7,7 +7,7 @@ public class ArithmeticOperaters {
         int a = 10;
         int b = 5;
 
-        // binary Operaters
+        // binary Operaters//
 
         System.out.println("additio:" + (a + b));
         System.out.println("sub:" + (a - b));
@@ -18,6 +18,7 @@ public class ArithmeticOperaters {
         System.out.println("-----------------------------");
 
         // unary Operaters
+        
 
         // increment
         int d = a++;// after print +1 d=10+1
