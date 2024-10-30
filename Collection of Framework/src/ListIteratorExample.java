@@ -1,14 +1,14 @@
 import java.util.ArrayList;
-import java.util.ListIterator; // Import the ListIterator interface
+import java.util.ListIterator;
 
-public class ListIteratorExample { // Renamed the class
+public class ListIteratorExample {
     public static void main(String[] args) {
         ArrayList<String> fruits = new ArrayList<>();
         fruits.add("Apple");
         fruits.add("Banana");
         fruits.add("Cherry");
 
-        ListIterator<String> listIterator = fruits.listIterator(); // Use the imported ListIterator interface
+        ListIterator<String> listIterator = fruits.listIterator();
 
         while (listIterator.hasNext()) {
             System.out.println(listIterator.next());
